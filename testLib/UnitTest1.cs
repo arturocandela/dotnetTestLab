@@ -8,7 +8,7 @@ namespace testLib
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void TestHello()
         {
 
             Class1 class1 = new Class1();
